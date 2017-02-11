@@ -1,0 +1,10 @@
+export const ADDCOUNT = "ADDCOUNT";
+export const MINUSCOUNT = "MINUSCOUNT";
+export const TRADE = "TRADE";
+export const CLASS = "CLASS";
+export const HOME = "HOME";
+export const DIFFCLASSES = "DIFFCLASSES"
+export const SPECIALTIME = "SPECIALTIME"
+export const ASKFORADVANCE = "ASKFORADVANCE"
+export const BIGGERBAG = "BIGGERBAG"
+export const NEWSFLASH = "NEWSFLASH"
